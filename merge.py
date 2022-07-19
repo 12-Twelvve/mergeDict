@@ -8,7 +8,7 @@ data1 = [{
     },
     {
     'district':'kavre',
-    'kp1':0.75,
+    'kpi1':0.75,
     },
 ]
 data2 = [{
@@ -21,7 +21,7 @@ data2 = [{
     },
     {
     'district':'kavre',
-    'kp2':0.6,
+    'kpi2':0.6,
     },
 ]
 data3 =[]
