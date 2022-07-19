@@ -1,27 +1,27 @@
 data1 = [{
     'District':'Kathmandu',
-    'KPI_1':0.8,
+    'KPI_1':.8,
     },
     {
     'District':'Dhanusha',
-    'KPI_1':0.85,
+    'KPI_1':.85,
     },
     {
     'District':'Kavrepalanchowk',
-    'KPI_1':0.75,
+    'KPI_1':.75,
     },
 ]
 data2 = [{
     'District':'Kathmandu',
-    'KPI_2':0.35,
+    'KPI_2':.35,
     },
     {
     'District':'Dhanusha',
-    'KPI_2':0.65,
+    'KPI_2':.65,
     },
     {
     'District':'Kavrepalanchowk',
-    'KPI_2':0.6,
+    'KPI_2':.6,
     },
 ]
 data3 =[]
